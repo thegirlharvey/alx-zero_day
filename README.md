@@ -1,2 +1,2 @@
 my first readme
-my udated readme file
+my updated readme file
